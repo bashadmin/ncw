@@ -1,5 +1,3 @@
-Of course! Here's the revised and comprehensive Learner's Aid:
-
 ---
 
 ### Learner's Aid: Interacting with ChatGPT (GPT-3.5)
