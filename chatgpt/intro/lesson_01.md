@@ -1,6 +1,4 @@
----
-
-### Learner's Aid: Interacting with ChatGPT (GPT-3.5)
+## Learner's Aid: Interacting with ChatGPT (GPT-3.5)
 
 ---
 
